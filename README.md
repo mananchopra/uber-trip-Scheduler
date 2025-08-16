@@ -148,6 +148,9 @@ The application includes a demo in `Application.java` that demonstrates:
 
 ## 📊 UML Class Diagram
 
+<img width="1698" height="891" alt="Screenshot 2025-08-17 at 12 44 30 AM" src="https://github.com/user-attachments/assets/b764ecd7-b952-4f56-a17a-f08870c4811e" />
+
+
 The system design is documented through a comprehensive UML class diagram that shows:
 - **Class relationships**: Composition, aggregation, and associations
 - **Method signatures**: Public interfaces for each class
